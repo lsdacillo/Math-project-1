@@ -1,6 +1,6 @@
 player_1 = "";
 player_2 = "";
-function adduser(){
+function login_user(){
     player_1 = document.getElementById("player_1_login").value;
     player_2 = document.getElementById("player_2_login").value;
 
